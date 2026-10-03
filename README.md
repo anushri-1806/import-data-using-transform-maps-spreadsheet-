@@ -1,2 +1,2 @@
-# import-data-using-transform-maps-spreadsheet-
-ServiceNow project to import employee data from an Excel spreadsheet using Import Sets and Transform Maps, with field mapping, data validation, duplicate handling, reports, and dashboard analytics.
+Import Data using Transform Maps (Spreadsheet)
+This project demonstrates how to import structured employee data from an Excel spreadsheet into ServiceNow using Import Sets and Transform Maps. It covers creating an Employee Test table, loading spreadsheet data, mapping source fields to target fields, transforming and validating records, handling duplicate records using Coalesce, and creating reports and dashboards for employee analytics.
